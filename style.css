@@ -281,7 +281,7 @@ input{
 }
 .belowicon {
   justify-content: center;
-  padding-bottom: 10px;
+  padding-bottom: 12px;
   display: flex;
 }
 .discover {
